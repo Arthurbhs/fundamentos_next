@@ -1,0 +1,11 @@
+.Navegator{
+    background-color: rgb(27, 27, 27);
+    padding: 30px;
+    margin: 10px;
+    color: #fff;
+    cursor: pointer;
+}
+.Navegator:hover{
+    background-color: rgb(134, 134, 134);
+    color: rgb(0, 0, 0);
+}

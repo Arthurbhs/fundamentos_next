@@ -1,0 +1,29 @@
+html,
+body {
+  padding: 0;
+  background-color: black;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: rgb(83, 0, 0);
+    background: rgb(248, 241, 241);
+  }
+}
+.purple{
+  background-color: blueviolet;
+  color:bisque;
+}

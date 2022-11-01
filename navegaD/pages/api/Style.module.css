@@ -1,0 +1,14 @@
+.purple{
+    height: 100vh;
+    background-color: rgb(95, 33, 153);
+    color:rgb(95, 183, 255);
+    
+}
+
+.purple h2 {
+    margin: 0;
+}
+
+.purple p{
+    color:rgb(95, 183, 255); 
+}
