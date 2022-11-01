@@ -1,9 +1,17 @@
+import Link from "next/link"
+import Layount from "../components/leyount"
 import styles from "./api/Style.module.css"
 
 
 export default function Style(){
 return(
-    <div className={styles.purple}><h2>nhe</h2></div>
-)
+  
+<Layount title="css">
+<div className={styles.purple}>
+    <h1>css module style</h1>
+</div>
+    </Layount>
+   
+    )
 
 }
